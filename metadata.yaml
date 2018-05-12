@@ -13,6 +13,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17374#Bank-of-the-Manhattan-CompanyChartered-1799--A-Progressive-Commercial-Bank
 gutenberg_issued: '2005-12-22'
 gutenberg_type: Text
 identifiers:
